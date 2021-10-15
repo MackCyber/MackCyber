@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MackCyber
-- 👀 I’m interested in Game Development, Web Designs etc....
+- 👀 I’m interested in Game Development, ML, Python, etc....
 - 🌱 I’m currently learning Unity and C#
 - 📫 You can easily reach me through my gmail - mathewvg007@gmail.com
 
